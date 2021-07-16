@@ -1,0 +1,16 @@
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\TuiPlayer.exe
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\TuiPlayer.deps.json
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\TuiPlayer.runtimeconfig.json
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\TuiPlayer.runtimeconfig.dev.json
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\TuiPlayer.dll
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\TuiPlayer.pdb
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\NStack.dll
+C:\Users\lhotchkiss\source\repos\TuiPlayer\bin\Debug\netcoreapp3.1\Terminal.Gui.dll
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.csprojAssemblyReference.cache
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.AssemblyInfoInputs.cache
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.AssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.csproj.CoreCompileInputs.cache
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.csproj.CopyComplete
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.dll
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.pdb
+C:\Users\lhotchkiss\source\repos\TuiPlayer\obj\Debug\netcoreapp3.1\TuiPlayer.genruntimeconfig.cache
