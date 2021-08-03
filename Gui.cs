@@ -13,6 +13,8 @@ namespace TuiPlayer
         public void Start() {
             Application.Init();                     // Creates an instance of MainLoop to process events etc.
 
+            // Player requires initialization //////////////////////////////
+
             var top = Application.Top;
             var tframe = top.Frame;
 
@@ -29,7 +31,7 @@ namespace TuiPlayer
             {
                 new MenuBarItem("_File", new MenuItem[]
                 {
-                    new MenuItem("_Open", "Open a music file", () => Application.RequestStop()),
+                    new MenuItem("_Open", "Open a music file", () => Player.PlayAudioFile()),
 
                     new MenuItem("_Open Stream", "Open a stream", () => Application.RequestStop()),
 

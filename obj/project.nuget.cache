@@ -1,11 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "lpCeW8vDgb+oYmn1vwX8OWy8fDP27aCtKpHGfUP6EnYHpvFS8w9EaC3FFUpZlH2s2VYKDZtSzhJpUz4MXzbxug==",
+  "dgSpecHash": "7B/+RPnZsf7Z+eMLEltv/cspOTfs3pq8jPIj+vO0n+UhcCbQUIccYv2SP7FR9qxD9/BzCccRCvtcGmQL18XSWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lhotchkiss\\source\\repos\\TuiPlayer\\TuiPlayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\lhotchkiss\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\naudio\\2.0.1\\naudio.2.0.1.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\naudio.asio\\2.0.0\\naudio.asio.2.0.0.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\naudio.core\\2.0.0\\naudio.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\naudio.midi\\2.0.1\\naudio.midi.2.0.1.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\naudio.wasapi\\2.0.0\\naudio.wasapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\naudio.winforms\\2.0.1\\naudio.winforms.2.0.1.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\naudio.winmm\\2.0.1\\naudio.winmm.2.0.1.nupkg.sha512",
     "C:\\Users\\lhotchkiss\\.nuget\\packages\\nstack.core\\0.16.0\\nstack.core.0.16.0.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\lhotchkiss\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\lhotchkiss\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\lhotchkiss\\.nuget\\packages\\terminal.gui\\1.1.1\\terminal.gui.1.1.1.nupkg.sha512",
     "C:\\Users\\lhotchkiss\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
